@@ -1,4 +1,4 @@
-# Code repository SYDE 552 Final Project
+# Code repository: SYDE 552 Class Final Project
 <br> Exploring Visual Perception Challenges in Schizophrenia: Insights from Salience Maps and Predictive Modelling
 
 ## Prepared by: 
